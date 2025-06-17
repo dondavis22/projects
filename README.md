@@ -1,14 +1,20 @@
-1. Excel Project Overview
+1. Python Web Scraping Project – Wikipedia Company Data
    
-    • Created an interactive dashboard analyzing bike sales data using PivotTables, slicers, and advanced charts to identify key trends          and insights. (Dataset: Kaggle)
+   Scraped and cleaned data of the top Indian companies from Wikipedia using requests, BeautifulSoup, and pandas; saved the dataset to CSV and visualized key metrics using
+   matplotlib.
    
 
-3. Power BI Project Overview
+3. Excel Project Overview
+   
+    • Created an interactive dashboard analyzing bike sales data using PivotTables, slicers, and advanced charts to identify key trends          and insights. (Dataset: Kaggle)
+
+   
+4. Power BI Project Overview
 
    • Developed a Power BI dashboard to visualize survey results on job satisfaction, programming preferences, and career trends among data      professionals. (Dataset: Survey Data)
    
 
-3. Tableau Project Overview
+5. Tableau Project Overview
 
     • Designed a Tableau dashboard analyzing Airbnb property data to showcase pricing trends, bedroom distribution, and geographic             insights.(Dataset: Airbnb)
 
