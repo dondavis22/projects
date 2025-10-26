@@ -39,7 +39,6 @@ Temporal Trends: Monthly trends highlighted peak shopping periods, suggesting po
 Geographical Insights: USA accounted for the largest share of total revenue, followed by UK & Germany.
 
 🧠 Skills Demonstrated
-
 Python: Pandas, NumPy, Data Cleaning, Data Transformation
 SQL: SQLAlchemy, Database Creation, Data Loading
 Power BI: Dashboard Design, KPI Tracking, Data Modeling, Interactive Visuals
