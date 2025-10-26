@@ -5,6 +5,8 @@
 This project showcases an end-to-end data analytics workflow designed to analyze retail sales performance and customer behavior. The process involves data cleaning and transformation using Python, data storage and management using MySQL, and visualization in Power BI.
 The goal was to identify sales trends, customer purchasing patterns, top-performing product categories, and key performance metrics through an interactive and dynamic dashboard.
 
+Dataset Used: https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset
+
 🧰 Project Workflow
 
 1. Data Cleaning & Preprocessing (Python, Pandas)
