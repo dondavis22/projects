@@ -1,10 +1,12 @@
 🛍️ Retail Sales Analysis Dashboard
 
 📊 Overview
+
 This project showcases an end-to-end data analytics workflow designed to analyze retail sales performance and customer behavior. The process involves data cleaning and transformation using Python, data storage and management using MySQL, and visualization in Power BI.
 The goal was to identify sales trends, customer purchasing patterns, top-performing product categories, and key performance metrics through an interactive and dynamic dashboard.
 
 🧰 Project Workflow
+
 1. Data Cleaning & Preprocessing (Python, Pandas)
 2. Removed missing values in critical columns like Transaction_ID, Date, Customer_ID, and State.
 3. Filled categorical null values (State, Product_Brand, Customer_Segment, Product_Category) with “Unknown”.
@@ -18,11 +20,13 @@ The goal was to identify sales trends, customer purchasing patterns, top-perform
        Extracted Year, Month from the Date column
 
 ⚙️ Database Integration (MySQL)
+
 1. Connected to MySQL using SQLAlchemy.
 2. Created a new database and stored the cleaned DataFrame as a structured table.
 3. Enabled Power BI to extract and visualize data directly from MySQL for real-time analytics.
 
 📊 Data Visualization (Power BI)
+
 Designed an interactive Retail Sales Dashboard displaying key business insights:
   *KPIs: Total Sales, Total Customers, and Total Transactions, Average Age, Average Revenue.
   *Sales data by Product Category, Product Type, and Product Brand, visualized using pie charts with drill-down functionality.
@@ -32,6 +36,7 @@ Designed an interactive Retail Sales Dashboard displaying key business insights:
 
 
 📈 Key Insights from the Dashboard
+
 Sales Performance: The dashboard revealed strong overall sales (~399.6M) across ~292K transactions, with ~86K unique customers.
 Top Categories: Electronics category consistently contributed the majority of total sales.
 Customer Segmentation: Regular customer segment accounted for a large share of purchases, indicating strong brand loyalty.
@@ -39,6 +44,7 @@ Temporal Trends: Monthly trends highlighted peak shopping periods, suggesting po
 Geographical Insights: USA accounted for the largest share of total revenue, followed by UK & Germany.
 
 🧠 Skills Demonstrated
+
 Python: Pandas, NumPy, Data Cleaning, Data Transformation
 SQL: SQLAlchemy, Database Creation, Data Loading
 Power BI: Dashboard Design, KPI Tracking, Data Modeling, Interactive Visuals
