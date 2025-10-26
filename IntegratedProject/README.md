@@ -1,12 +1,3 @@
-🗂️ Project Structure
-Retail_Sales_Analysis/
-│
-├── retail_sales_cleaning.ipynb   # Jupyter notebook with Python code for data cleaning & MySQL upload
-├── retail_sales_dashboard.pbix   # Power BI dashboard file
-├── README.md                     # Project documentation
-└── data/
-    └── retail_sales_raw.csv       # Original dataset
-
 🛍️ Retail Sales Analysis Dashboard
 
 📊 Overview
