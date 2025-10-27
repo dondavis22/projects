@@ -1,4 +1,4 @@
-1. Retail Sales Analysis Dashboard (Python, SQL, Power BI)
+1. Retail Sales Analysis Dashboard - IntegratedProject(Python, SQL, Power BI)
    
    Built an end-to-end retail analytics system using Python, MySQL, and Power BI to clean, store, and visualize sales data; identified key trends in revenue, customer behavior, and product performance.
 
