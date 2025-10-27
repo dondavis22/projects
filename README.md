@@ -1,26 +1,22 @@
-1. Python Web Scraping Project – Wikipedia Company Data
+1. Retail Sales Analysis Dashboard (Python, SQL, Power BI)
    
-   Scraped and cleaned data of the top Indian companies from Wikipedia using requests, BeautifulSoup, and pandas; saved the dataset to CSV and visualized key metrics using
-   matplotlib.
-   
-
-3. Excel Project Overview
-   
-    • Created an interactive dashboard analyzing bike sales data using PivotTables, slicers, and advanced charts to identify key trends          and insights. (Dataset: Kaggle)
+   Built an end-to-end retail analytics system using Python, MySQL, and Power BI to clean, store, and visualize sales data; identified key trends in revenue, customer behavior, and product performance.
 
    
-4. Power BI Project Overview
+3. Python Web Scraping Project – Wikipedia Company Data
 
-   • Developed a Power BI dashboard to visualize survey results on job satisfaction, programming preferences, and career trends among data      professionals. (Dataset: Survey Data)
+   Scraped and cleaned data of the top Indian companies from Wikipedia using requests, BeautifulSoup, and pandas; saved the dataset to CSV and visualized key metrics using matplotlib.
+
    
+4. Excel Project Overview
+   
+   Created an interactive dashboard analyzing bike sales data using PivotTables, slicers, and advanced charts to identify key trends and insights. (Dataset: Kaggle)
 
-5. Tableau Project Overview
+   
+5. Power BI Project Overview
 
-    • Designed a Tableau dashboard analyzing Airbnb property data to showcase pricing trends, bedroom distribution, and geographic             insights.(Dataset: Airbnb)
-
-    Here is the link to the tableau project(Due to file exceeding GitHub limit):
-
-    https://www.dropbox.com/scl/fi/7otrl4r1eicwfs241vtsm/FinalProject-Tableau.twbx?rlkey=emc7159fwz5m8rq0284ar9v74&e=1&st=id8ic3hb&dl=0
+   Developed a Power BI dashboard to visualize survey results on job satisfaction, programming preferences, and career trends among data professionals. (Dataset: Survey Data)
+   
 
 
 
