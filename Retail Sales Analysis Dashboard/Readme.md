@@ -1,4 +1,4 @@
-🛍️ Retail Sales Analysis Dashboard
+🛍️ Retail Sales Analysis Dashboard-- Python, SQL, Power BI
 
 📊 Overview
 
